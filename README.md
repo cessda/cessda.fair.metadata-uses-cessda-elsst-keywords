@@ -1,4 +1,4 @@
-[![SQAaaS badge](https://github.com/EOSC-synergy/SQAaaS/raw/master/badges/badges_150x116/badge_software_bronze.png)](https://api.eu.badgr.io/public/assertions/HWCT6EMNRverkI0KJ8gC1Q "SQAaaS bronze badge achieved")
+[![SQAaaS badge shields.io](https://img.shields.io/badge/sqaaas%20software-bronze-e6ae77)](https://api.eu.badgr.io/public/assertions/Er-WrIjbRYur_tYkmS3RtQ "SQAaaS bronze badge achieved")
 
 # metadata-uses-cessda-elsst-keywords
 
