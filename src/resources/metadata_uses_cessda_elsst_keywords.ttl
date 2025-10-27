@@ -3,18 +3,18 @@
 <https://doi.org/10.25504/FAIRsharing.XXX>
     a <http://www.w3.org/ns/dqv#Metric> .
 
-<https://tests.ostrails.eu/tests/fc_metadata_uses_cessda_vocabularies>
+<https://tests.ostrails.eu/tests/fc_metadata_uses_cessda_elsst_keywords>
     <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0002-4402-9644> ;
-    <http://purl.org/dc/terms/description> "Maturity Indicator to test if the linked data metadata uses terms that resolve to linked CESSDA data."@en ;
-    <http://purl.org/dc/terms/identifier> <https://tests.ostrails.eu/tests/fc_metadata_uses_cessda_vocabularies> ;
+    <http://purl.org/dc/terms/description> "Maturity Indicator to test if the linked metadata uses CESSDA ELSST keywords."@en ;
+    <http://purl.org/dc/terms/identifier> <https://tests.ostrails.eu/tests/fc_metadata_uses_cessda_elsst_keywords> ;
     <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> ;
     <http://purl.org/dc/terms/title> "FAIR Champion: Metadata uses CESSDA vocabularies"@en ;
     <http://purl.org/dc/terms/type> <http://edamontology.org/operation_2428> ;
     <http://semanticscience.org/resource/SIO_000233> <https://doi.org/10.25504/FAIRsharing.96d4af> ;
     a <http://www.w3.org/ns/dcat#DataService>, <https://w3id.org/ftr#Test> ;
     <http://www.w3.org/ns/dcat#contactPoint> <https://orcid.org/0000-0002-4402-9644>, <https://ror.org/02wg9xc72> ;
-    <http://www.w3.org/ns/dcat#endpointDescription> <https://tests.ostrails.eu/tests/fc_metadata_uses_cessda_vocabularies/api> ;
-    <http://www.w3.org/ns/dcat#endpointURL> <https://tests.ostrails.eu/assess/test/fc_metadata_uses_cessda_vocabularies> ;
+    <http://www.w3.org/ns/dcat#endpointDescription> <https://tests.ostrails.eu/tests/fc_metadata_uses_cessda_elsst_keywords/api> ;
+    <http://www.w3.org/ns/dcat#endpointURL> <https://tests.ostrails.eu/assess/test/fc_metadata_uses_cessda_elsst_keywords> ;
     <http://www.w3.org/ns/dcat#keyword> "FAIR Assessment"@en, "FAIR Principles"@en ;
     <http://www.w3.org/ns/dcat#theme> <http://edamontology.org/topic_4012> ;
     <http://www.w3.org/ns/dcat#version> "1.0.0"@en ;
