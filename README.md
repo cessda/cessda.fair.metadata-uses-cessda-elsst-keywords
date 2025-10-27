@@ -1,8 +1,10 @@
-# REPO NAME
-
 [![SQAaaS badge](https://github.com/EOSC-synergy/SQAaaS/raw/master/badges/badges_150x116/badge_software_bronze.png)](https://api.eu.badgr.io/public/assertions/HWCT6EMNRverkI0KJ8gC1Q "SQAaaS bronze badge achieved")
 
-This repository contains the source code for  the CESSDA community-specific FAIR tests.
+# REPO NAME
+
+metadata-uses-cessda-elsst-keywords
+
+This repository contains the source code for the CESSDA community-specific FAIR test MetadataUsesCessdaElsstKeywords.
 
 ## Prerequisites
 
